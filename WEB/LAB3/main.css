@@ -1,0 +1,165 @@
+html {  
+    overflow-x: hidden;
+}
+.r{
+    background-color: black;
+    height: 130px;
+}
+#clch{
+    color: darkgrey;
+    font-size: 14px;
+    padding-top: 9px;
+}
+.knpk{
+    margin-top: -50px;
+}
+.knopki{
+    background-color: #e37700;
+    border-radius: 10px;
+}
+.btn-group{
+    height: 80px;
+    width: 80%;
+    
+    padding-left: 16%;
+}
+.r1{
+    background-image: url('img/fon2.png');
+    padding-bottom: 30px;
+    padding-top: 80px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.cf{
+    margin-top: -30px;
+}
+.pic{
+    width: 80%;
+    height: 120px;
+    border-radius: 10px;
+}
+.orang{
+    color: darkorange;
+    font-size: 18px;
+    padding-top: 20px;
+}
+.txt{
+    color: darkgrey;
+    font-size: 14px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.readmore{
+   background-color: #271f1f;
+   border-radius: 10px;
+   border-width: 1px;
+   color: whitesmoke;
+   height: 45px;
+   width: 130px ;
+   text-align: center;
+   font-size: 11px;   
+   margin-top: 40px;
+}
+.r2{
+    background-color: white; 
+    padding-top: 30px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.who{
+    font-size: 28px;
+    padding-left: 30px;
+}
+.font-weight-bold {
+  font-weight: 600;
+}
+.pic1{
+    width: 70%;
+    height: 120px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.wh{
+    color: darkgrey;
+    margin-left: 30px;
+    font-size: 14px;
+}
+#but4{
+   border-radius: 10px;
+   color: darkgrey;
+   height: 45px;
+   width: 130px ;
+   text-align: center;
+   font-size: 11px;
+   margin-top: 20px;
+   margin-left: 30px;
+}
+.textcol{
+    color:#e37700;
+}
+.wh1{
+    color: darkgrey;
+    padding-top: 50px;
+    font-size: 14px;
+}
+.wh2{
+    color: darkgrey;
+    font-size: 14px;
+}
+.lines{
+    margin-bottom: 7px;
+}
+.lines1{
+    margin-bottom: 32px;
+}
+.lines2{
+    margin-bottom: 5px;
+}
+.strel{
+    padding-right: 5px;
+}
+.orang1{
+    color: darkorange;
+}
+.otstyp{
+    margin-left: 30px;
+}
+.footer{
+    font-size: 11px; 
+    background-color: black;
+    height: 120px;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+.text-my-own-color {
+  color: #e37700 !important;
+}
+
+.my-own-color {
+    background-color: #e37700 !important;
+}
+.knp button:hover{
+    background: #c9c9c9;
+    color: black;
+}
+
+.container_slider_css{
+    width:70%;
+    height:120px;
+   
+    position:relative
+}
+.photo_slider_css{
+    position:absolute;
+    animation:round 12s infinite;
+    opacity:0;
+    width:100%
+}
+@keyframes round {
+25%{opacity:1}
+40%{opacity:0}
+}
+img:nth-child(1){animation-delay:8s}
+img:nth-child(2){animation-delay:4s}
+img:nth-child(3){animation-delay:0s}
