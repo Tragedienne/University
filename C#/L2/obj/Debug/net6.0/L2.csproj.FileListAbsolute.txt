@@ -1,0 +1,15 @@
+D:\УНИВЕР\3К2С\СПП\L2\obj\Debug\net6.0\L2.csproj.AssemblyReference.cache
+D:\УНИВЕР\3К2С\СПП\L2\obj\Debug\net6.0\L2.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕР\3К2С\СПП\L2\obj\Debug\net6.0\L2.AssemblyInfoInputs.cache
+D:\УНИВЕР\3К2С\СПП\L2\obj\Debug\net6.0\L2.AssemblyInfo.cs
+D:\УНИВЕР\3К2С\СПП\L2\obj\Debug\net6.0\L2.csproj.CoreCompileInputs.cache
+D:\УНИВЕР\3К2С\СПП\L2\bin\Debug\net6.0\L2.exe
+D:\УНИВЕР\3К2С\СПП\L2\bin\Debug\net6.0\L2.deps.json
+D:\УНИВЕР\3К2С\СПП\L2\bin\Debug\net6.0\L2.runtimeconfig.json
+D:\УНИВЕР\3К2С\СПП\L2\bin\Debug\net6.0\L2.dll
+D:\УНИВЕР\3К2С\СПП\L2\bin\Debug\net6.0\L2.pdb
+D:\УНИВЕР\3К2С\СПП\L2\obj\Debug\net6.0\L2.dll
+D:\УНИВЕР\3К2С\СПП\L2\obj\Debug\net6.0\refint\L2.dll
+D:\УНИВЕР\3К2С\СПП\L2\obj\Debug\net6.0\L2.pdb
+D:\УНИВЕР\3К2С\СПП\L2\obj\Debug\net6.0\L2.genruntimeconfig.cache
+D:\УНИВЕР\3К2С\СПП\L2\obj\Debug\net6.0\ref\L2.dll
