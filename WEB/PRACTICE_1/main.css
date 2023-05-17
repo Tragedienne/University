@@ -1,0 +1,97 @@
+.ss {
+    text-decoration: none; 
+}
+a:hover {
+    text-decoration: underline; 
+}
+
+#gal{
+    width: 450px;
+    height: 300px;
+    margin-left: 180px;
+}
+
+#slid{
+    width: 100%;
+    padding-bottom: 20px;
+    margin-top: -40px;
+}
+#pic1{
+    padding-top: 25px;
+    width: 200px;
+    height: 100px;
+}
+#viewport {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    text-align: center;
+}
+#slidewrapper {
+    position: relative;
+    width: calc(100% * 4);
+    -webkit-transition: 1s;
+    -o-transition: 1s;
+    transition: 1s;
+    -webkit-transition-timing-function: cubic-bezier(.67,.01,.23,1);
+    -o-transition-timing-function: cubic-bezier(.67,.01,.23,1);
+    transition-timing-function: cubic-bezier(.67,.01,.23,1);
+}
+
+#slidewrapper, #slidewrapper ul, #slidewrapper li {
+    margin: 0;
+    padding: 0;
+}
+.slide {
+    width: calc(100%/4);
+    list-style: none;
+    display: inline;
+    float: left;
+}
+
+.slide-img {
+    width: 80%;
+}
+
+#prev-btn, #next-btn {
+    position: absolute;
+    width: 50px;
+    height: 35px;
+    background-color: #1e1e1e;    
+    top: calc(50% - 25px);
+    text-align: center;
+    line-height: 30px;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+#prev-btn:hover, #next-btn:hover {
+    cursor: pointer;
+}
+#prev-btn {
+    left: 135px;
+    margin-top: 15px;
+}
+#next-btn {
+    right: 135px;
+        margin-top: 15px;
+}
+
+#nav-btns {
+    position: absolute;
+    width: 100%;
+    bottom: 5px;
+    text-align: center;
+}
+
+
+
+.slide-nav-btn:hover {
+    color: whitesmoke;
+    cursor: pointer;
+}

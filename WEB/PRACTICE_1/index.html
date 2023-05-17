@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	 <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script> 
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Aliaksandra Hubanava</title>
+	<link rel="stylesheet" href="main.css">
+	<link href="https://fonts.google.com/share?selection.family=Open%20Sans:wght@300%7CRoboto:wght@100;300" rel="stylesheet">
+	<!-- CSS only -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-3 bg-dark">
+				<img width="261"
+				height="255"  src="img/I.png">
+			</div>
+			<div class="col-7 pt-5">	
+				<h1 class="text-justify">Aliaksandra </h1>
+				<h1 class="text-justify">Hubanava </h1>
+				<h2 class="text-justify pt-3">web-designer </h2>
+			</div>
+			<div class="col-2">
+				<p><a href="file:///D:/%D0%A3%D0%9D%D0%98%D0%92%D0%95%D0%A0/%D0%9A%D0%9E%D0%9D%D0%A7%D0%98%D0%9B%D0%98%D0%A1%D0%AC/2%20%D0%BA%D1%83%D1%80%D1%81/2%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80/WEB/%D0%9F%D0%A0%D0%90%D0%9A%D0%A2%D0%98%D0%9A%D0%90/index.html"><img  width="120"
+				height="110" src="img/logo.png"></a></p>
+			</div>
+		</div>
+		<div class="row ">
+			<div class="col-3 bg-dark">
+                <nav class=" bg-dark navbar-dark navbar-expand">
+            <div>
+              <ul class="navbar-nav  flex-column text-center navbar-text">
+                <li>
+                  <h5><a href="" class="nav-link">About me</a><h5>
+                </li>
+                <li class="nav-item">
+                  <h5><a href="file:///D:/%D0%A3%D0%9D%D0%98%D0%92%D0%95%D0%A0/%D0%9A%D0%9E%D0%9D%D0%A7%D0%98%D0%9B%D0%98%D0%A1%D0%AC/2%20%D0%BA%D1%83%D1%80%D1%81/2%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80/WEB/3/index.html" class="nav-link">My web-sites</a></h5>
+                </li>
+                <li class="nav-item">
+                  <h5><a href="https://www.instagram.com/_tragedienne__/?hl=ru" class="nav-link">Instagram</a></h5>
+                </li>
+                <li class="nav-item">
+                  <h5><a href="https://vk.com/tragedienne2" class="nav-link">Vkontakte</a></h5>
+                </li>
+                <li class="nav-item">
+                  <h5><a href="https://www.facebook.com/profile.php?id=100025402650314" class="nav-link">Facebook</a></h5>
+                </li>
+              </ul>
+            </div>
+          </nav>
+          		<div class="info text-center" style="padding-top:550px">
+          			<h6><a href="https://mail.google.com/mail/u/0/#inbox"  class="text-white ss">sanya.gubanova.02@gmail.com</a></h6>
+          			<h6 class="text-white">+375 (29) 9761795</h6>
+      			</div>
+			</div>	
+	<div class="col-9">
+		<h4 class="bg-light text-dark">Profile:</h4>
+		<p style="padding-left: 150px; padding-right: 150px; padding-top: 10px;">I am happy I have already chosen future profession 
+for me. I hope to become a good designer one day. 
+I always liked to draw and color. I like to imagine 
+different compositions and colors, structures
+and lines. Sometimes I see it in my head. I can find
+some interesting picture in internet or in a magazine and I 
+want add something or remove it.</p>
+<h4 class="bg-light text-dark">Experience:</h4>
+		<p style="padding-left: 150px; padding-right: 150px; padding-top: 10px;">I have been creating layouts and layout of web pages 
+for 1 year. Below you can see examples of work:</p>
+      <div class="container"> 
+        
+        <div class="row" > 
+          <div class="col" style="margin-left: 200px;"> 
+            <a  onclick="browseThrough(1)"><img src="img/4.jpg" style="width:100px; height:100px"></a> 
+            <a  onclick="browseThrough(2)"><img src="img/7.jpg" style="width:100px; height:100px"></a> 
+            <a  onclick="browseThrough(3)"><img src="img/24.jpg" style="width:100px; height:100px"></a> 
+            <a  onclick="browseThrough(4)"><img src="img/28.jpg" style="width:100px; height:100px"></a> 
+          </div> 
+          <div class="row" id="galerie" style="padding-top:10px; "> 
+          <div id="1" class="1" ><img id="gal" src="img/4.jpg"></div> 
+          <div id="2" class="2" style="display:none;"><img id="gal" src="img/7.jpg"></div> 
+          <div id="3" class="3" style="display:none;"><img id="gal" src="img/24.jpg"></div> 
+          <div id="4" class="4" style="display:none;"><img id="gal" src="img/28.jpg"></div> 
+        </div> 
+        </div> 
+      </div>  
+        <script type="text/javascript"> 
+            function browseThrough(pictureId) { 
+                $("#galerie div").hide(); 
+                $("div#"+pictureId).show() 
+ 
+            } 
+        </script> 
+    <h4 class="bg-light text-dark" style="margin-top:20px">Skills:</h4>
+		<p style="padding-left: 150px; padding-right: 150px; padding-top: 10px;">
+	<div id="slid">
+        <div class="container">
+            <div id="viewport">
+                <ul id="slidewrapper">
+                    <li class="slide"><img id="pic1" src="img/Photoshop.png" class="slide-img"></li>
+                    <li class="slide"><img id="pic1" src="img/Illustrator.png" class="slide-img"></li>
+                    <li class="slide"><img id="pic1" src="img/Wordpress.png" class="slide-img"></li>
+                </ul>
+                <div id="prev-next-btns">
+                    <div id="prev-btn">prev</div>
+                    <div id="next-btn">next</div>
+                </div>
+               
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!-- JavaScript Bundle with Popper -->
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>	
+	    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
