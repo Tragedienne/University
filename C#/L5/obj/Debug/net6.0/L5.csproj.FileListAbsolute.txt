@@ -1,0 +1,15 @@
+D:\УНИВЕР\3К2С\СПП\L5\bin\Debug\net6.0\L5.exe
+D:\УНИВЕР\3К2С\СПП\L5\bin\Debug\net6.0\L5.deps.json
+D:\УНИВЕР\3К2С\СПП\L5\bin\Debug\net6.0\L5.runtimeconfig.json
+D:\УНИВЕР\3К2С\СПП\L5\bin\Debug\net6.0\L5.dll
+D:\УНИВЕР\3К2С\СПП\L5\bin\Debug\net6.0\L5.pdb
+D:\УНИВЕР\3К2С\СПП\L5\obj\Debug\net6.0\L5.csproj.AssemblyReference.cache
+D:\УНИВЕР\3К2С\СПП\L5\obj\Debug\net6.0\L5.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕР\3К2С\СПП\L5\obj\Debug\net6.0\L5.AssemblyInfoInputs.cache
+D:\УНИВЕР\3К2С\СПП\L5\obj\Debug\net6.0\L5.AssemblyInfo.cs
+D:\УНИВЕР\3К2С\СПП\L5\obj\Debug\net6.0\L5.csproj.CoreCompileInputs.cache
+D:\УНИВЕР\3К2С\СПП\L5\obj\Debug\net6.0\L5.dll
+D:\УНИВЕР\3К2С\СПП\L5\obj\Debug\net6.0\refint\L5.dll
+D:\УНИВЕР\3К2С\СПП\L5\obj\Debug\net6.0\L5.pdb
+D:\УНИВЕР\3К2С\СПП\L5\obj\Debug\net6.0\L5.genruntimeconfig.cache
+D:\УНИВЕР\3К2С\СПП\L5\obj\Debug\net6.0\ref\L5.dll
