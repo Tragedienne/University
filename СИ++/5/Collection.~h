@@ -1,0 +1,24 @@
+#ifndef H_COLLECTION
+#define H_COLLECTION
+#include "ZKX.h"
+
+class Collection{
+  private:
+    ZKX *pmas[10];
+    int size;
+  public:
+    Collection();
+    ~Collection();
+    void add(ZKX *);
+    void del(int);
+    int kol();
+    ZKX *getobj(int);
+    void swap(int, int);
+
+    
+    int countS(char S);
+
+    void sort();
+    void print();
+};
+#endif
