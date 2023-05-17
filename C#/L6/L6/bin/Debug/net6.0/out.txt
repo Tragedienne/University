@@ -1,0 +1,2 @@
+The sum of the diagonal elements of the first matrix: 47,45274888769099
+The sum of the diagonal elements of the second matrix: 56,851012439763835

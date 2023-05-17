@@ -1,0 +1,36 @@
+D:\УНИВЕР\3К2С\СПП\L6\DLL\DLL\bin\Debug\net6.0\DLL.deps.json
+D:\УНИВЕР\3К2С\СПП\L6\DLL\DLL\bin\Debug\net6.0\DLL.dll
+D:\УНИВЕР\3К2С\СПП\L6\DLL\DLL\bin\Debug\net6.0\DLL.pdb
+D:\УНИВЕР\3К2С\СПП\L6\DLL\DLL\obj\Debug\net6.0\DLL.csproj.AssemblyReference.cache
+D:\УНИВЕР\3К2С\СПП\L6\DLL\DLL\obj\Debug\net6.0\DLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕР\3К2С\СПП\L6\DLL\DLL\obj\Debug\net6.0\DLL.AssemblyInfoInputs.cache
+D:\УНИВЕР\3К2С\СПП\L6\DLL\DLL\obj\Debug\net6.0\DLL.AssemblyInfo.cs
+D:\УНИВЕР\3К2С\СПП\L6\DLL\DLL\obj\Debug\net6.0\DLL.csproj.CoreCompileInputs.cache
+D:\УНИВЕР\3К2С\СПП\L6\DLL\DLL\obj\Debug\net6.0\DLL.dll
+D:\УНИВЕР\3К2С\СПП\L6\DLL\DLL\obj\Debug\net6.0\refint\DLL.dll
+D:\УНИВЕР\3К2С\СПП\L6\DLL\DLL\obj\Debug\net6.0\DLL.pdb
+D:\УНИВЕР\3К2С\СПП\L6\DLL\DLL\obj\Debug\net6.0\ref\DLL.dll
+C:\Users\makar\OneDrive\Рабочий стол\L6\DLL\DLL\bin\Debug\net6.0\DLL.deps.json
+C:\Users\makar\OneDrive\Рабочий стол\L6\DLL\DLL\bin\Debug\net6.0\DLL.dll
+C:\Users\makar\OneDrive\Рабочий стол\L6\DLL\DLL\bin\Debug\net6.0\DLL.pdb
+C:\Users\makar\OneDrive\Рабочий стол\L6\DLL\DLL\obj\Debug\net6.0\DLL.csproj.AssemblyReference.cache
+C:\Users\makar\OneDrive\Рабочий стол\L6\DLL\DLL\obj\Debug\net6.0\DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makar\OneDrive\Рабочий стол\L6\DLL\DLL\obj\Debug\net6.0\DLL.AssemblyInfoInputs.cache
+C:\Users\makar\OneDrive\Рабочий стол\L6\DLL\DLL\obj\Debug\net6.0\DLL.AssemblyInfo.cs
+C:\Users\makar\OneDrive\Рабочий стол\L6\DLL\DLL\obj\Debug\net6.0\DLL.csproj.CoreCompileInputs.cache
+C:\Users\makar\OneDrive\Рабочий стол\L6\DLL\DLL\obj\Debug\net6.0\DLL.dll
+C:\Users\makar\OneDrive\Рабочий стол\L6\DLL\DLL\obj\Debug\net6.0\refint\DLL.dll
+C:\Users\makar\OneDrive\Рабочий стол\L6\DLL\DLL\obj\Debug\net6.0\DLL.pdb
+C:\Users\makar\OneDrive\Рабочий стол\L6\DLL\DLL\obj\Debug\net6.0\ref\DLL.dll
+D:\L6\DLL\DLL\bin\Debug\net6.0\DLL.deps.json
+D:\L6\DLL\DLL\bin\Debug\net6.0\DLL.dll
+D:\L6\DLL\DLL\bin\Debug\net6.0\DLL.pdb
+D:\L6\DLL\DLL\obj\Debug\net6.0\DLL.csproj.AssemblyReference.cache
+D:\L6\DLL\DLL\obj\Debug\net6.0\DLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\L6\DLL\DLL\obj\Debug\net6.0\DLL.AssemblyInfoInputs.cache
+D:\L6\DLL\DLL\obj\Debug\net6.0\DLL.AssemblyInfo.cs
+D:\L6\DLL\DLL\obj\Debug\net6.0\DLL.csproj.CoreCompileInputs.cache
+D:\L6\DLL\DLL\obj\Debug\net6.0\DLL.dll
+D:\L6\DLL\DLL\obj\Debug\net6.0\refint\DLL.dll
+D:\L6\DLL\DLL\obj\Debug\net6.0\DLL.pdb
+D:\L6\DLL\DLL\obj\Debug\net6.0\ref\DLL.dll

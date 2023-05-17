@@ -1,0 +1,54 @@
+D:\УНИВЕР\3К2С\СПП\L6\L6\bin\Debug\net6.0\L6.exe
+D:\УНИВЕР\3К2С\СПП\L6\L6\bin\Debug\net6.0\L6.deps.json
+D:\УНИВЕР\3К2С\СПП\L6\L6\bin\Debug\net6.0\L6.runtimeconfig.json
+D:\УНИВЕР\3К2С\СПП\L6\L6\bin\Debug\net6.0\L6.dll
+D:\УНИВЕР\3К2С\СПП\L6\L6\bin\Debug\net6.0\L6.pdb
+D:\УНИВЕР\3К2С\СПП\L6\L6\bin\Debug\net6.0\DLL.dll
+D:\УНИВЕР\3К2С\СПП\L6\L6\bin\Debug\net6.0\DLL.pdb
+D:\УНИВЕР\3К2С\СПП\L6\L6\obj\Debug\net6.0\L6.csproj.AssemblyReference.cache
+D:\УНИВЕР\3К2С\СПП\L6\L6\obj\Debug\net6.0\L6.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕР\3К2С\СПП\L6\L6\obj\Debug\net6.0\L6.AssemblyInfoInputs.cache
+D:\УНИВЕР\3К2С\СПП\L6\L6\obj\Debug\net6.0\L6.AssemblyInfo.cs
+D:\УНИВЕР\3К2С\СПП\L6\L6\obj\Debug\net6.0\L6.csproj.CoreCompileInputs.cache
+D:\УНИВЕР\3К2С\СПП\L6\L6\obj\Debug\net6.0\L6.csproj.CopyComplete
+D:\УНИВЕР\3К2С\СПП\L6\L6\obj\Debug\net6.0\L6.dll
+D:\УНИВЕР\3К2С\СПП\L6\L6\obj\Debug\net6.0\refint\L6.dll
+D:\УНИВЕР\3К2С\СПП\L6\L6\obj\Debug\net6.0\L6.pdb
+D:\УНИВЕР\3К2С\СПП\L6\L6\obj\Debug\net6.0\L6.genruntimeconfig.cache
+D:\УНИВЕР\3К2С\СПП\L6\L6\obj\Debug\net6.0\ref\L6.dll
+C:\Users\makar\OneDrive\Рабочий стол\L6\L6\bin\Debug\net6.0\L6.exe
+C:\Users\makar\OneDrive\Рабочий стол\L6\L6\bin\Debug\net6.0\L6.deps.json
+C:\Users\makar\OneDrive\Рабочий стол\L6\L6\bin\Debug\net6.0\L6.runtimeconfig.json
+C:\Users\makar\OneDrive\Рабочий стол\L6\L6\bin\Debug\net6.0\L6.dll
+C:\Users\makar\OneDrive\Рабочий стол\L6\L6\bin\Debug\net6.0\L6.pdb
+C:\Users\makar\OneDrive\Рабочий стол\L6\L6\bin\Debug\net6.0\DLL.dll
+C:\Users\makar\OneDrive\Рабочий стол\L6\L6\bin\Debug\net6.0\DLL.pdb
+C:\Users\makar\OneDrive\Рабочий стол\L6\L6\obj\Debug\net6.0\L6.csproj.AssemblyReference.cache
+C:\Users\makar\OneDrive\Рабочий стол\L6\L6\obj\Debug\net6.0\L6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makar\OneDrive\Рабочий стол\L6\L6\obj\Debug\net6.0\L6.AssemblyInfoInputs.cache
+C:\Users\makar\OneDrive\Рабочий стол\L6\L6\obj\Debug\net6.0\L6.AssemblyInfo.cs
+C:\Users\makar\OneDrive\Рабочий стол\L6\L6\obj\Debug\net6.0\L6.csproj.CoreCompileInputs.cache
+C:\Users\makar\OneDrive\Рабочий стол\L6\L6\obj\Debug\net6.0\L6.csproj.CopyComplete
+C:\Users\makar\OneDrive\Рабочий стол\L6\L6\obj\Debug\net6.0\L6.dll
+C:\Users\makar\OneDrive\Рабочий стол\L6\L6\obj\Debug\net6.0\refint\L6.dll
+C:\Users\makar\OneDrive\Рабочий стол\L6\L6\obj\Debug\net6.0\L6.pdb
+C:\Users\makar\OneDrive\Рабочий стол\L6\L6\obj\Debug\net6.0\L6.genruntimeconfig.cache
+C:\Users\makar\OneDrive\Рабочий стол\L6\L6\obj\Debug\net6.0\ref\L6.dll
+D:\L6\L6\bin\Debug\net6.0\L6.exe
+D:\L6\L6\bin\Debug\net6.0\L6.deps.json
+D:\L6\L6\bin\Debug\net6.0\L6.runtimeconfig.json
+D:\L6\L6\bin\Debug\net6.0\L6.dll
+D:\L6\L6\bin\Debug\net6.0\L6.pdb
+D:\L6\L6\bin\Debug\net6.0\DLL.dll
+D:\L6\L6\bin\Debug\net6.0\DLL.pdb
+D:\L6\L6\obj\Debug\net6.0\L6.csproj.AssemblyReference.cache
+D:\L6\L6\obj\Debug\net6.0\L6.GeneratedMSBuildEditorConfig.editorconfig
+D:\L6\L6\obj\Debug\net6.0\L6.AssemblyInfoInputs.cache
+D:\L6\L6\obj\Debug\net6.0\L6.AssemblyInfo.cs
+D:\L6\L6\obj\Debug\net6.0\L6.csproj.CoreCompileInputs.cache
+D:\L6\L6\obj\Debug\net6.0\L6.csproj.CopyComplete
+D:\L6\L6\obj\Debug\net6.0\L6.dll
+D:\L6\L6\obj\Debug\net6.0\refint\L6.dll
+D:\L6\L6\obj\Debug\net6.0\L6.pdb
+D:\L6\L6\obj\Debug\net6.0\L6.genruntimeconfig.cache
+D:\L6\L6\obj\Debug\net6.0\ref\L6.dll
