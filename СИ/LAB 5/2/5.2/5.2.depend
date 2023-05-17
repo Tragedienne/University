@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1621415819 source:f:\Математики и ТП\1\pi11\agubanova\lab 5\2\5.2\func.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+
+1621584975 source:f:\Математики и ТП\1\pi11\agubanova\lab 5\2\5.2\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+

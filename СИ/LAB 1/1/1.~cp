@@ -1,0 +1,24 @@
+/* Губанова Александра, вариант 7
+Задача 1.1. Определить, можно ли из четырех длин сторон,
+введенных в порядке возрастания, построить прямоугольник.*/
+
+#include <stdio.h>
+#include <windows.h>
+
+int main() {
+  int a,b,c,e;
+  printf("a = ");
+  scanf("%d", &a);
+  printf("b = ");
+  scanf("%d", &b);
+  printf("c = ");
+  scanf("%d", &c);
+  printf("e = ");
+  scanf("%d", &e);
+    if ( (a==b) && (c==e) && (a!=c) && (a!=e) )
+      printf("Yes\n");
+    else
+      printf("No\n");
+  system("pause");
+  return 0;
+}

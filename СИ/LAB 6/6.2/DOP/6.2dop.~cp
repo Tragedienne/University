@@ -1,0 +1,25 @@
+#include <stdio.h>
+#include <conio.h>
+#include <windows.h>
+#include <math.h>
+#include<string.h>
+
+int main(){
+
+  int n, i;
+  int *a;
+
+  printf("Vvedite razmernost massiva\n");
+  scanf("%d",&n);
+  a=(int *)malloc(n*sizeof(int));
+  printf("Vvedite massiv\n");
+  for(i=0; i<n; i++)
+    
+    //scanf("%d",));
+  printf("Vvedenniy massiv\n");
+  for(i=0; i<n; i++)
+    printf("%d",);
+  free(a);
+  getch();
+  return 0;
+}
